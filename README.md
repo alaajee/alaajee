@@ -11,5 +11,5 @@ Bienvenue sur mon GitHub ! Vous trouverez ici des projets sur lesquels j'ai trav
 Je développe actuellement une **application web full-stack** intégrant des **recommandations basées sur l’IA**, avec **React.js + Node.js**, pour un **suivi intelligent des entraînements sportifs**.  
 
 ### 📫 Restons en contact !  
-- [LinkedIn](https://www.linkedin.com/in/alaajee/)  
+- [LinkedIn](www.linkedin.com/in/alaa-jennine-14465022b)  
 - [GitHub](https://github.com/alaajee)  
