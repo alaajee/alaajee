@@ -1,17 +1,15 @@
-## Hi there 👋  
+## Salut 👋  
 
-Welcome to my GitHub! Here, you'll find projects I've worked on, ranging from **systems programming** to **web development** and **AI applications**.  
+Bienvenue sur mon GitHub ! Vous trouverez ici des projets sur lesquels j'ai travaillé, allant de la **programmation système** au **développement web**, en passant par les **applications d'intelligence artificielle**.  
 
-### 🔧 Projects  
-- 🖥 **Kernel development** – Building a minimalist operating system.  
-- 🔥 **Firefighting robots simulation** – Java-based AI simulation for fire extinguishing.  
-- 🌐 **Portal for organizational platforms** – A web app to showcase and manage platforms.  
+### 🔧 Projets  
+- 🖥 **Développement de kernel** – Création d’un système d’exploitation minimaliste.  
+- 🔥 **Simulation de robots pompiers** – Simulation en Java pour l’extinction d’incendies.  
+- 🌐 **Portail pour les plateformes d’une organisation** – Une application web permettant de présenter et gérer des plateformes.  
 
-### 🚀 Current Work  
-I'm currently working on a **full-stack web application** integrating **AI-based recommendations** and **React.js + Node.js** for an intelligent sports training platform.  
+### 🚀 Travail actuel  
+Je développe actuellement une **application web full-stack** intégrant des **recommandations basées sur l’IA**, avec **React.js + Node.js**, pour un **suivi intelligent des entraînements sportifs**.  
 
-### 📫 Let's Connect!  
+### 📫 Restons en contact !  
 - [LinkedIn](https://www.linkedin.com/in/alaajee/)  
 - [GitHub](https://github.com/alaajee)  
-
----
