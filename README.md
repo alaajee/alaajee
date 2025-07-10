@@ -4,4 +4,4 @@ This is my GitHub where you can find the projects I have worked on and am curren
 
 ### 📫 Contact !  
 - [LinkedIn](https://www.linkedin.com/in/alaa-jennine-14465022b)  
-- [GitHub](https://github.com/alaajee)  
+- [Gmail](alaejennine33@gmail.com)  
