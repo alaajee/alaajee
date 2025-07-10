@@ -1,4 +1,4 @@
-## Salut 👋  
+## Hello👋  
 
 Bienvenue sur mon GitHub ! Vous trouverez ici des projets sur lesquels j'ai travaillé, allant de la **programmation système** au **développement web**, en passant par les **applications d'intelligence artificielle**.  
 
